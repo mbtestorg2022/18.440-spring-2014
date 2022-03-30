@@ -26,7 +26,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
 
 ### Requirements Satisfied
 

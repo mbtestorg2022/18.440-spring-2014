@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding lecture 6 notes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-440-probability-and-random-variables-spring-2014/6e27fc8d402dbc59ab102a1ed11ec90d_MIT18_440S14_Lecture6.pdf
 file_type: application/pdf
+parent_uid: c9587427-5d73-f12f-83ec-0cf9635a2961
 resourcetype: Document
 title: Probability and Random Variables, Lecture 6
 uid: 6e27fc8d-402d-bc59-ab10-2a1ed11ec90d
